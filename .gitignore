@@ -7,3 +7,5 @@ npm-debug.log*
 
 # Build
 typings/globals
+app/*.js
+app/*.map
